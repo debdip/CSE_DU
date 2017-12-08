@@ -1,4 +1,5 @@
 mutex-
+
 semaphore-
 
 monitor-A monitor consists of a mutex (lock) object and condition variables.
@@ -95,4 +96,18 @@ Advantages of Thread over Process
 
 4. Resource sharing: Resources like code, data and file can be shared among all threads within a process.
 
+Paging
+
+Paging is a memory management scheme that allows processes physical memory to be discontinuous, and which eliminates problems with fragmentation by allocating memory in equal sized blocks known as pages.
+Paging eliminates most of the problems of the other methods discussed previously, and is the predominant memory management technique used today.
+
+A translation lookaside buffer (TLB) is a memory cache that is used to reduce the time taken to access a user memory location. It is a part of the chip's memory-management unit (MMU). The TLB stores the recent translations of virtual memory to physical memory and can be called an address-translation cache.
+
+DLL is a dynamic link library file format used for holding multiple codes and procedures for Windows programs. DLL files were created so that multiple programs could use their information at the same time, aiding memory conservation.
+
+
+
+
+https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/9_VirtualMemory.html
+https://en.wikipedia.org/wiki/Page_fault
 
