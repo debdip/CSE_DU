@@ -50,10 +50,10 @@ The middle element is looked to check if it is greater than or less than the val
 Accordingly, search is done to either half of the given list
 
 
-		Best 		average		worst	  worst(space)
-Quicksort 	Ω(n log(n)) 	Θ(n log(n)) 	O(n^2) 	    O(log(n))
-Mergesort 	Ω(n log(n)) 	Θ(n log(n)) 	O(n log(n)) 	O(n)
-Heapsort 	Ω(n log(n)) 	Θ(n log(n)) 	O(n log(n)) 	O(1)
-Bubble Sort 	Ω(n) 	          Θ(n^2) 	O(n^2) 		O(1)
-Insertion Sort 	Ω(n)              Θ(n^2) 	O(n^2) 		O(1)
-Selection Sort 	Ω(n^2)            Θ(n^2) 	O(n^2) 		O(1)
+			Best 		average		worst	  worst(space)
+	Quicksort 	Ω(n log(n)) 	Θ(n log(n)) 	O(n^2) 	    O(log(n))
+	Mergesort 	Ω(n log(n)) 	Θ(n log(n)) 	O(n log(n)) 	O(n)
+	Heapsort 	Ω(n log(n)) 	Θ(n log(n)) 	O(n log(n)) 	O(1)
+	Bubble Sort 	Ω(n) 	          Θ(n^2) 	O(n^2) 		O(1)
+	Insertion Sort 	Ω(n)              Θ(n^2) 	O(n^2) 		O(1)
+	Selection Sort 	Ω(n^2)            Θ(n^2) 	O(n^2) 		O(1)
