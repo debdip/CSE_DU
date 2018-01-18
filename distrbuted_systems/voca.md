@@ -37,3 +37,7 @@ we sat ruminating on the nature of existance.
 
 unkempt (adj) - having an untidy and disheveled apperance. আলুখালু
   they were unwashed and unkempt
+  
+lenient (adj.)-- pemissive, 
+
+imperative () --necessary 
