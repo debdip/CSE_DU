@@ -41,3 +41,9 @@ unkempt (adj) - having an untidy and disheveled apperance. আলুখালু
 lenient (adj.)-- pemissive, 
 
 imperative () --necessary 
+
+remuneration(n) --money paid for work or a service. পারিশ্রমিক
+	
+
+
+
