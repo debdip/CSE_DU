@@ -38,12 +38,39 @@ we sat ruminating on the nature of existance.
 unkempt (adj) - having an untidy and disheveled apperance. আলুখালু
   they were unwashed and unkempt
   
-lenient (adj.)-- pemissive, 
+lenient (adj.)-- permissive,merciful,tolerant ক্ষমাশীল
+There is no need for them to be lenient , nor are they expected to close their eyes to evil practices.
 
 imperative () --necessary 
 
 remuneration(n) --money paid for work or a service. পারিশ্রমিক
+
+efficacious (adj) -- effective, successful  successful in producing a desired or intended result; effective.
+
+meticulous (adj.) --showing great attention in detail, very careful and precise.
+McCurry was a meticulous traveler who liked to arrive everywhere early.
 	
+circumvent(v) --bypass, find a way round,dodge (বাধা, বিপত্তি) এড়িয়ে যাওয়া  ,deceit,outwit
 
+capitulate(v) --surrender, আত্মসমর্পণ করা
+the patriots had to capitulate to the enemy forces
 
+interminable(adj.) --endless
+Most people are likely tired of the interminable debate over outsourcing.
+
+inure (v) --accustomed to something (unpleasent)
+With a long trip ahead, she hoped that she would eventually become inured to the discomfort of the awkward seating arrange-
+ments.
+
+dubious (adj.) --doubtful,uncertain,suspicious
+
+itinerary(n) --a planned route/journey ভ্রমণপথ
+In reality, I am safe and sound and I do not intend to change my travel itinerary .
+
+disgruntle() --make angry or dissatisfied.
+He was disgruntled by Clara's unflattering comments about his brother.
+
+eclectic(adj.) --deriving ideas,style or taste from a broad and diverge range of source.
+
+extensive() --
 
