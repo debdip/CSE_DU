@@ -70,7 +70,26 @@ In reality, I am safe and sound and I do not intend to change my travel itinerar
 disgruntle() --make angry or dissatisfied.
 He was disgruntled by Clara's unflattering comments about his brother.
 
-eclectic(adj.) --deriving ideas,style or taste from a broad and diverge range of source.
+eclectic(adj.) --deriving ideas,style or taste from a broad and diverge range of source. সারগ্রাহী
+her musical tastes are eclectic.
 
 extensive() --
+
+divulge(v) --disclose, reveal ফাঁস করা
+
+proclivity () --natural inclination স্বাভাবিক প্রবণতা a tendency to choose or do something regularly
+a proclivity of hard work.
+
+affinity() --a spontaneous or natural liking or sympathy for someone or something.
+he has an affinity for the music of Berlioz.
+
+speculation/conjecture(n) --অনুমান/আন্দাজ 
+there has been widespread speculation that he plans to quit.
+conjectures about the newcomer were many and varied.
+
+credulity() --বিশ্বাসপ্রবণতা
+moneylenders prey upon their credulity and inexperience.
+
+myriad(adj.) -- innumerable, অগণ্য
+
 
