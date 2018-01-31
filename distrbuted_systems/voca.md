@@ -92,4 +92,6 @@ moneylenders prey upon their credulity and inexperience.
 
 myriad(adj.) -- innumerable, অগণ্য
 
+banquet (n) --an elaborate and formal evening meal for many people, often followed by speeches. feast
+
 
