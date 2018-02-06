@@ -92,6 +92,17 @@ moneylenders prey upon their credulity and inexperience.
 
 myriad(adj.) -- innumerable, অগণ্য
 
-banquet (n) --an elaborate and formal evening meal for many people, often followed by speeches. feast
+banquet (n,v) --an elaborate and formal evening meal for many people, often followed by speeches. feast ভোজোত্সব/	
+ভোজ খাত্তয়া
 
+laceration (n) --a deep cut or tear in skin or flesh. ক্ষত
+gash (n/v) --গভীর ক্ষত
 
+sanguine  --optimistic
+innocuous  --harmless
+
+construe -- বিশেষভাবে বোঝা understand,
+
+exonerate --free fro blame
+
+enamore --
