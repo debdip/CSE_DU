@@ -17,3 +17,17 @@ sabuj hossain was caught during a raid on sunday morning as part of BGB's crackd
 
 Chief Justice Syed Mahmud Hossain has pledged to do whatever it takes to sustain coordination among the three pillars of the state: the judiciary, the legislative and the executive.
 বিচার বিভাগ, আইন বিভাগ ও নির্বাহী বিভাগ, রাষ্ট্রের এই তিনটি স্তম্ভের মধ্যে সমন্বয় বজায় রাখার জন্য যা যা করা প্রয়োজন তা করার প্রতিশ্রুতি গেপন করেছেন প্রধান বিচারপতি সৈয়দ মাহমুদ হোসেন
+
+the horror and futility of war.    	যুদ্ধের ভয়াবহতা এবং নিষ্ফলতা
+
+it flattered his vanity to think I was in love with him.
+
+
+his words could hardly be construed as an apology.
+তার বক্তব্য ক্ষমা হিসেবে ধরে নেয়া যায় না
+
+
+Big movements designed to intensify economic integration have brought no perceptible economic benefit.
+অর্থনৈতিক একীকরণ প্রবল/তীব্রতর করার জন্য নেয়া পরিকল্পিত বড় পদক্ষেপগুলা কোনো প্রত্যক্ষ অর্থনৈতিক সুবিধা নিয়ে আসে নি।
+	
+  
