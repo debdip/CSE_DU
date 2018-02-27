@@ -30,4 +30,6 @@ his words could hardly be construed as an apology.
 Big movements designed to intensify economic integration have brought no perceptible economic benefit.
 অর্থনৈতিক একীকরণ প্রবল/তীব্রতর করার জন্য নেয়া পরিকল্পিত বড় পদক্ষেপগুলা কোনো প্রত্যক্ষ অর্থনৈতিক সুবিধা নিয়ে আসে নি।
 	
+চলো তোমাকে পৌঁছে দিয়ে আসি|
+let me escort you.
   
