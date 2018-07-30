@@ -161,4 +161,6 @@ They have no intellectual significance when applied to things in themselves.
 
 
 the letter filled Lucy with indignation-চিঠিটি লুসিকে ক্রোধে পরিপূর্ণ করলো।
+As a judge you have to find that,the murder was a accident or act of volition-
+একজন বিচারক হিসেবে তোমাকে বের করতে হবে যে এটি দুর্ঘটনা নাকি ইচ্ছাকৃত খুন ছিল
   
