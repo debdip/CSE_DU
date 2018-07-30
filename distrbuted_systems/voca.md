@@ -103,6 +103,8 @@ innocuous  --harmless
 
 construe -- বিশেষভাবে বোঝা understand,
 
-exonerate --free fro blame
+exonerate --free from blame
 
 enamore --
+
+attire -- clothes specially fine and formal ones.
