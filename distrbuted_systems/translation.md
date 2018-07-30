@@ -112,7 +112,7 @@ Lately I've been feeling depressed and forlorn , as if my best friend had just d
 
 
 she has been on the board since its inception two years ago.
-দুই বছর আগে তিনি শুরু থেকেই বোর্ডে রয়েছেন
+দুই বছর আগে সূচনালগ্ন থেকেই সে এই বোর্ডে আছে
 
 I did not accede to that application at the inception of the hearing or when I reconsidered it later.
 শুনানির শুরুতে আমি সেই আবেদনে রাজি হয়নি বা পরে যখন আমি এটি পুনরায় বিবেচনা করলাম।
