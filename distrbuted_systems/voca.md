@@ -108,3 +108,5 @@ exonerate --free from blame
 enamore --
 
 attire -- clothes specially fine and formal ones.
+
+en-bloc -- all together or all at the same time.
